@@ -2,7 +2,7 @@
 
 ### 1 - Overview
 
-#### The main objective of this project is to analyze disaster data from [Figure Eight](https://appen.com/) and build a model, for an API, that classifies disaster messages.
+#### The main objective of this project is to analyze disaster data from [Figure Eight](https://appen.com/) and build a model, for an API, that classifies disaster messages. This application is build to help people or organization during an event of a disaster.
 
 ### 2 - Project components
 
