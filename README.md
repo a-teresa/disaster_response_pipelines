@@ -52,7 +52,14 @@
 #### II - Execute train_classifier.py to generate pickle file classifier.pkl:
 
 #### - go to models folder and then, inside models directory (cd models), in the terminal, insert: 
-#### python train_classifier.py data/DisasterResponse.db classifier.pkl
+
+#### i)npython train_classifier.py data/DisasterResponse.db classifier.pkl
+
+#### or 
+
+#### ii) put DisasterResponse.db inside models directory and simply type:
+
+####  python train_classifier.py DisasterResponse.db classifier.pkl)
 
 (This will generate classifier.pkl inside models directory)
 
@@ -62,7 +69,13 @@
 
 #### I- in the terminal insert the following command (inside app directory):
 
-#### python run.py data/DisasterResponse.db models/classifier.pkl
+#### i) python run.py data/DisasterResponse.db models/classifier.pkl
+
+#### or
+
+#### ii) put classifier.pkl and DisasterResponse.db inside data directory and simply type:
+
+#### python run.py DisasterResponse.db classifier.pkl
 
 #### After that, a link is generated and it is possible to access the app.
 
