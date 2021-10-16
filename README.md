@@ -36,7 +36,7 @@
 
 ####
 
-
+#### A
 #### I - Execute process_data.py:
 
 #### Go inside data directory(cd data) and type the following command in the terminal (inside data directory):
@@ -48,17 +48,17 @@
 
 ####
 
-
+#### B
 #### II - Execute train_classifier.py to generate pickle file classifier.pkl:
 
 #### - go to models folder and then, inside models directory (cd models), in the terminal, insert: 
 #### python train_classifier.py data/DisasterResponse.db classifier.pkl
 
-This will generate classifier.pkl inside models directory
+(This will generate classifier.pkl inside models directory)
 
 ###
-
-#### 4) After generate the pickle file (inside models), classifier.pkl: go to app directory (cd app) and execute run.py:  
+#### C
+#### 3) After generate the pickle file (inside models), classifier.pkl: go to app directory (cd app) and execute run.py:  
 
 #### I- in the terminal insert the following command (inside app directory):
 
