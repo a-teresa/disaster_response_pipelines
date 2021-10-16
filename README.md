@@ -39,11 +39,12 @@
 
 #### I - Execute process_data.py:
 
-#### Enter in data directory(cd data) and type the following command in the terminal (inside data directory):
+#### Go inside data directory(cd data) and type the following command in the terminal (inside data directory):
+
 
 #### python process_data.py disaster_categories.csv disaster_messages.csv DisasterResponse.db
 
-This will generate DisasterResponse.db inside data directory
+(This will generate DisasterResponse.db inside data directory)
 
 ####
 
