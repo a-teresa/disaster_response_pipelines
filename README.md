@@ -53,7 +53,7 @@
 
 #### - go to models folder and then, inside models directory (cd models), in the terminal, insert: 
 
-#### i)npython train_classifier.py data/DisasterResponse.db classifier.pkl
+#### i)python train_classifier.py data/DisasterResponse.db classifier.pkl
 
 #### or 
 
