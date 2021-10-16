@@ -40,7 +40,11 @@
 
 ![](https://github.com/a-teresa/disaster_response_pipelines/blob/main/screenshot_app/image1.png)
 
+#### Overview of main page:
+
 ![Complete overview of main page](https://github.com/a-teresa/disaster_response_pipelines/blob/main/screenshot_app/image2.png)
+
+#### Some classification examples:
 
 ![Message Classification: example](https://github.com/a-teresa/disaster_response_pipelines/blob/main/screenshot_app/image3.png)
 
