@@ -50,7 +50,8 @@
 
 ![Another Classification example](https://github.com/a-teresa/disaster_response_pipelines/blob/main/screenshot_app/image4.png)
 
-#### The classification could be improved with more data related with categories that have low number of samples:
+#### The classification could be improved with more data related with categories that have low number of samples; 
+#### detected problem: different classification results for the same word - water:
 
 ![Some problems detected: example](https://github.com/a-teresa/disaster_response_pipelines/blob/main/screenshot_app/image5.png)
 ![Some problems detected: example ](https://github.com/a-teresa/disaster_response_pipelines/blob/main/screenshot_app/image6.png)
