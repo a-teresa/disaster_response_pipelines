@@ -31,19 +31,34 @@
 
 #### 2) with all 3 folders in same directory:
 
-#### I - Execute train_classifier.py to generate pickle file classifier.pkl:
+
+#### I - Execute process_data.py:
+
+#### Enter in data directory(cd data) and type the following command in the terminal (inside data directory):
+
+#### python process_data.py disaster_categories.csv disaster_messages.csv DisasterResponse.db
+
+This will generate DisasterResponse.db inside data directory
+
+
+#### II - Execute train_classifier.py to generate pickle file classifier.pkl:
 
 #### - go to models folder and then, inside models directory (cd models), in the terminal, insert: 
 #### python train_classifier.py data/DisasterResponse.db classifier.pkl
 
+This will generate classifier.pkl inside models directory
 
-#### 3) After generate the pickle file (inside models), classifier.pkl: go to app directory (cd app) and execute run.py:  
 
-#### I- in the terminal insert the following command:
+
+#### 4) After generate the pickle file (inside models), classifier.pkl: go to app directory (cd app) and execute run.py:  
+
+#### I- in the terminal insert the following command (inside app directory):
 
 #### python run.py data/DisasterResponse.db models/classifier.pkl
 
 #### After that, a link is generated and it is possible to access the app.
+
+
 
 ### 4 - The trained model
 
