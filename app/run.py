@@ -105,7 +105,7 @@ def index():
     global df
     # find top 5 and least 5
     df= df.replace(2,1) #replace all 2 with 1
-    df = df.iloc[:,3:] #select only wanted columns
+    df = df.iloc[:,4:] #select only wanted columns
     count_val = (df.apply(pd.value_counts).transpose()).iloc[:, 1:2] #count and select only true values
     count_val['count'] = count_val.iloc[:,0] #name column
     #find the top 5 occurrences
