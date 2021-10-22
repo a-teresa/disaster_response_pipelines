@@ -85,6 +85,14 @@
 
 #### [Disaster Response App](https://first-app-response.herokuapp.com/)
 
+####
+
+#### Observation - to deploy the app online some changes were made to the original app:
+
+#### AdaBoostClassifier was used instead of RandomForestClassifier, in order to obtain a more acceptable size of the trained model.
+#### 
+#### More details are given inside the following folder: [heroku_app](https://github.com/a-teresa/disaster_response_pipelines/tree/main/heroku_app) 
+
 ### 4 - The trained model
 
 #### There are 36 categories in which the messages will be classified.
