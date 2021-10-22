@@ -1,4 +1,4 @@
-## Project: [Disaster Response Pipelines](https://first-app-response.herokuapp.com/) 
+## Project: Disaster Response Pipelines
 
 ### 1 - Overview
 
