@@ -1,4 +1,4 @@
-## Project: Disaster Response Pipelines 
+## Project: [Disaster Response Pipelines](https://first-app-response.herokuapp.com/) 
 
 ### 1 - Overview
 
@@ -79,7 +79,11 @@
 
 #### After that, a link is generated and it is possible to access the app.
 
+####
 
+#### Alternatively, the app is available through this link: 
+
+#### [Disaster Response App](https://first-app-response.herokuapp.com/)
 
 ### 4 - The trained model
 
@@ -114,6 +118,8 @@
 #### -  The data used in the project is provided by [Figure Eight](https://appen.com/)
 
 #### - The project is build under [Udacity](https://www.udacity.com) orientation (Data Science Nanodegree) both classroom and [Knowledge](https://knowledge.udacity.com/) space. 
+
+#### The app was deployed on [HEROKU](https://www.heroku.com/).
 
 
 
