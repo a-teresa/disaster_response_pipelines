@@ -122,7 +122,6 @@
 
 #### - The project is build under [Udacity](https://www.udacity.com) orientation (Data Science Nanodegree) both classroom and [Knowledge](https://knowledge.udacity.com/) space. 
 
-#### The app was deployed on [HEROKU](https://www.heroku.com/).
 
 
 
