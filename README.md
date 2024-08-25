@@ -1,4 +1,4 @@
-## Project: [Disaster Response Pipelines](https://first-app-response.herokuapp.com/)
+## Project: Disaster Response Pipelines)
 
 ### 1 - Overview
 
@@ -80,11 +80,6 @@
 #### After that, a link is generated and it is possible to access the app.
 
 ####
-
-#### Alternatively, the app is available through this link: 
-
-#### [Disaster Response App](https://first-app-response.herokuapp.com/)
-
 ####
 
 #### Observation - to deploy the app online some changes were made to the original app:
